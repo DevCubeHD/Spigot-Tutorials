@@ -3,7 +3,7 @@ package de.name.projektname;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class DeinProjektName extends JavaPlugin implements Listener
+public class ProjektName extends JavaPlugin implements Listener
 {
 	
 	public void onEnable()
